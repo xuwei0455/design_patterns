@@ -10,9 +10,9 @@ __Creational Patterns__:
 
 | Pattern | Description |
 |:-------:| ----------- |
-| [Abstact Factory](Abstract Factory.py) | use a generic function with specific factories |
+| [Abstact Factory](AbstractFactory.py) | use a generic function with specific factories |
 | [Builder](Builder.py) | instead of using multiple constructors, builder object receives parameters and returns constructed objects |
-| [Factory Method](Factory Method.py) | delegate a specialized function/method to create instances |
+| [Factory Method](FactoryMethod.py) | delegate a specialized function/method to create instances |
 | [Prototype](Prototype.py) | use a factory and clones of a prototype for new instances (if instantiation is expensive) |
 | [Singleton](Singleton.py) | restricts the instantiation of a class to one object |
 | [Simple Factory](SimpleFactory.py) | a simple version for [Factory Method](Factory Method.py) |
